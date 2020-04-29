@@ -171,9 +171,15 @@ a:active, a:focus, a:hover {
     margin-bottom: 3px;
     border-bottom: 3px solid;
 }
-.teste a:hover{
+.projeto1 a:hover{
     text-decoration: none;
     color: #f48812;
+    margin-bottom: 0px;
+    border: 1px solid;
+}
+.projeto2 a:hover{
+    text-decoration: none;
+    color: #000000;
     margin-bottom: 0px;
     border: 1px solid;
 }
