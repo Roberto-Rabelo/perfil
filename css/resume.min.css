@@ -177,3 +177,16 @@ a:active, a:focus, a:hover {
     margin-bottom: 0px;
     border: 1px solid;
 }
+.teste2 a:hover{
+    text-decoration: none;
+    color: #f41212;
+    margin-bottom: 0px;
+    border: 1px solid;
+}
+.teste3 a:hover{
+    text-decoration: none;
+    color: #e912f4 !important; 
+margin-bottom: 0px;
+    border: 1px solid;
+}
+
